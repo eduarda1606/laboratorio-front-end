@@ -6,12 +6,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Desafio 1 – css interno</title>
         
-
         <!--CSS interno adicionado-->
         <style> 
             body {
-                color:slategray
-                font-size: 16px
+                color:slategray;
+                font: size 16px;
             }
         </style>
     </head>
