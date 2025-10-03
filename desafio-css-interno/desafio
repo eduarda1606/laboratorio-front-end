@@ -6,17 +6,16 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Desafio 1 – css interno</title>
         
-        <!--CSS interno adicionado-->
         <style> 
             body {
-                color:slategray;
+                color: slategray;
                 font-size: 16px;
             }
         </style>
     </head>
     <body> 
-        <p> este é um paragrafo de teste.</p>
-        <p> oureo paragrafo com o mesmo estilo</p>
-    </body>
-    </html>
+        <p>Este é um parágrafo de teste.</p>
         
+        <p>Outro parágrafo com o mesmo estilo.</p>
+    </body>
+</html>
