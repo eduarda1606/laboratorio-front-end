@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Desafio 1 – css interno</title>
+        
+
+        <!--CSS interno adicionado-->
+        <style> 
+            body {
+                color:slategray
+                font-size: 16px
+            }
+        </style>
+    </head>
+    <body> 
+        <p> este é um paragrafo de teste.</p>
+        <p> oureo paragrafo com o mesmo estilo</p>
+    </body>
+    </html>
+        
